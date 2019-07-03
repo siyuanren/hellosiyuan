@@ -6,6 +6,7 @@ message= "hello world"
 print(message)
 
 name = "ada lovelace"
+# what is the meaning?
 print(name.title())
 print(name.upper())
 print(name.lower())
